@@ -7,9 +7,6 @@ Welcome to my GitHub profile! I’m passionate about Astrophysics and FOSS
 - 🔭 I love exploring the universe and learning about new discoveries in astronomy.
 - 🌱 I’m always learning and sharing knowledge with the community.
 
-## 📈 GitHub Stats
-![Credence473's GitHub stats](https://github-readme-stats.vercel.app/api?username=Credence473&show_icons=true&theme=radical)
-
 ## 🧰 Interests & Tools
 - **Fields:** Observational Astrophysics, Stellar Physics, Asteroseimology, Stellar Magnetism, Astronomy, Science Communication
 - **Skills/Tools:** Data analysis, Python, C, C++, Lua, Linux, GitHub, Telescope operation
